@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Copyright (c) 2019 Himanshu."""
+Copyright (c) 2023 Himanshu."""
 import asyncio
 import functools
 import itertools
